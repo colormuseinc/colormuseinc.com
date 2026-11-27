@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'MuseSong';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/MuseSong-0.woff2) format('truetype');
+}
+
+@font-face {
+  font-family: 'MuseKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/MuseKai-0.woff2) format('truetype');
+}
+
+@font-face {
+  font-family: 'MuseSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/MuseSans-0.woff2) format('truetype');
+}
